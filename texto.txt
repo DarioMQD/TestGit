@@ -2,3 +2,4 @@ Este es el archivo de test en texto plano de Git y control de versiones
 
 Nueva linea para un segundo commit
 
+Tengo que aprender git por que siempre la kgo
