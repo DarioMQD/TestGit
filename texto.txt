@@ -1,1 +1,4 @@
-Este es el archivo de test de Git y control de versiones
+Este es el archivo de test en texto plano de Git y control de versiones
+
+Nueva linea para un segundo commit
+
