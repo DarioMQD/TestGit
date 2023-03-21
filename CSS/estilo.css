@@ -1,6 +1,40 @@
-p {
-    padding: 30px;
+body {
+    padding: 0;
+    margin: 0;
     text-align: center;
     background-color: aquamarine;
     font-family: Satoshi Variable, sans-serif;
+    font-size: 20px;
+    z-index: -100;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 800;
+    color: aliceblue;
+    background-color: black;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+p {
+    background-color: aquamarine;
+    padding: 20px 0;
+}
+
+.circulo {
+    position: absolute;
+    background-color: rgba(50, 60, 80, 80);
+    height: 1500px;
+    width: 1500px;
+    border-radius: 50%;
+    border: solid 15px  rgba(135, 00, 250, 20);
+    top: 50%;
+    left: 50%;
+    transform: translateX(-10%);
+    transform: translateY(-50%);
+    z-index: -1;
+    
 }
