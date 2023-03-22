@@ -38,3 +38,16 @@ p {
     z-index: -1;
     
 }
+
+.footerBackground {
+    background-color: brown;
+    height: 100px;
+    border-bottom: 5px dashed white;
+
+}
+
+.footerBackground p {
+    font-weight: 800;
+    font-size: 1.3em;
+    color: rgb(120, 10, 120);
+}
